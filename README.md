@@ -1,5 +1,7 @@
-# Salary-calculation
-C# Program for Salary calculation
+//# Salary-calculation
+//C# Program for Salary calculation//
+
+
 using System;
 					
 public class Program
